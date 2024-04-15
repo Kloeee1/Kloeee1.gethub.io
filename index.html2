@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My personal webiste</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My personal homepage</h1>
+<img src="IMG_3455.JPG"alt="Ac milan stadium"style="width:128px;height:128px;">
+<img src="IMG_2851.jpeg"alt="Ac milan stadium"style="width:128px;height:128px;">
+                  <h1>My current classes</h1>
+<table>
+  <tr>
+    <th>class 1</th>
+    <th>class 2</th> 
+    <th>class 3</th>
+  </tr>
+  <tr>
+    <td>CIS-1420|</td>
+    <td>CIS-1500|</td> 
+    <td>COM-1290|</td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+<a href="https://oaklandcc.desire2learn.com/d2l/home/">Visit! oaklandcomunnitycollege.com</a>"</a>
+  </tr>
+</table>
+    </header>
+    <main>
+        <section>
+            <h2>More about me!</h2>
+            <p>Hi my name is khloe I am a student curently persuing a degree in computer scince in my free time I enjoy helping animals. I have a pet cat her name is kiddy I do plan to get more animals in the future. In my free time I also enjoy cooking.Below is an image of salmon rosted potatoes and Asparagus that I cooked!</p>
+<img src="IMG_2865.jpeg"alt="a dish I recently cooked"style="width:128px;height:128px;">
+</section>
+        <section>
+            <h2>Some of my favorite things</h2>
+            <p>one thing I tend to really enjoy is soccer ive been watching the sport for many years. one of my favorite clubs is Ac milan. that is why I included the image above.One of my favorite movies ever is Catch Me If You Can. One of my favorite tv shows is Naruto. Narto is a japanese anime style show about good and evil characters. below I linked the current series A standings.</p>
+<a href="https://www.espn.com/soccer/standings/_/league/ita.1/">Visit espn.com!</a>
+<a href="https://www.acmilan.com/en">Visit Acmilan.com!</a>        
+</section>
+        
+    </main>
+    <footer>
+        <p>fun fact about me!I also love playing sports I played tennis and was a cheer leader in highscool. I curently still play soccer myself as a hobby!</p>
+    </footer>
+</body>
+</html>
+<title>My personal course webpage</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>
+        
+    </header>
+    <main>
+        <section>
+            <h2>More about my courses and projects</h2>
+            <p>Two of my most notable courses I took were interpersonal communications and intro to programming java. the most notable project I had in my java course was coding a carpet calculator. I found this assigment to be a little difficult but none the less very interesting. One of the more notable assigments ive had in interpersonal communications was discussing a short film called Dinner For Two. The short film was about two chameleons fighting over the same bug.Their constant fight caused many issues for not only themselves, But for the other animals in the forest aswell.</p>
+<a href="https://www.youtube.com/watch?v=dYd2jNcTQHU/"> Watch Dinner For Two on youtube.</a>
+        </section>
+        <section>
+            <h>
+            <p>
+        </section>
+        
+    </main>
+    <footer>
+        <p>two of my favorite assigments are linkd bellow. I chose to highlight one of my java projects and a writing assignment. In the assigment bellow I wrote about eyewitness statements i explained how the statement can very from person to person even though they may have saw simular things or were in simular situations.</p>
+<img src="IMG_0398.png"alt="a copy of a paper I wrote about eyewitness statements"style="width:145px;height:280px;">
+<a href="App 2.java"> click to see one of my java projects</a>
+    </footer>
+</body>
+</html>
+
